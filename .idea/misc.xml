@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/abram/Documents/FAKULTET/DIPLOMSKI/Projekt/DomusMobile2/app/src/main/res/drawable/edit_text_bg.xml" value="0.228" />
+        <entry key="..\:/Users/abram/Documents/FAKULTET/DIPLOMSKI/Projekt/DomusMobile2/app/src/main/res/drawable/ic_folder.xml" value="0.2115" />
+        <entry key="..\:/Users/abram/Documents/FAKULTET/DIPLOMSKI/Projekt/DomusMobile2/app/src/main/res/drawable/splash_screen.xml" value="0.2775" />
+        <entry key="..\:/Users/abram/Documents/FAKULTET/DIPLOMSKI/Projekt/DomusMobile2/app/src/main/res/layout/activity_cart.xml" value="0.2692502532928065" />
+        <entry key="..\:/Users/abram/Documents/FAKULTET/DIPLOMSKI/Projekt/DomusMobile2/app/src/main/res/layout/activity_category.xml" value="0.5" />
+        <entry key="..\:/Users/abram/Documents/FAKULTET/DIPLOMSKI/Projekt/DomusMobile2/app/src/main/res/layout/activity_checkout.xml" value="0.33" />
+        <entry key="..\:/Users/abram/Documents/FAKULTET/DIPLOMSKI/Projekt/DomusMobile2/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/abram/Documents/FAKULTET/DIPLOMSKI/Projekt/DomusMobile2/app/src/main/res/layout/activity_product_details.xml" value="0.2674772036474164" />
+        <entry key="..\:/Users/abram/Documents/FAKULTET/DIPLOMSKI/Projekt/DomusMobile2/app/src/main/res/layout/activity_search.xml" value="0.2692502532928065" />
+        <entry key="..\:/Users/abram/Documents/FAKULTET/DIPLOMSKI/Projekt/DomusMobile2/app/src/main/res/layout/activity_splash.xml" value="0.3836050724637681" />
+        <entry key="..\:/Users/abram/Documents/FAKULTET/DIPLOMSKI/Projekt/DomusMobile2/app/src/main/res/layout/item_cart.xml" value="0.5" />
+        <entry key="..\:/Users/abram/Documents/FAKULTET/DIPLOMSKI/Projekt/DomusMobile2/app/src/main/res/layout/item_categories.xml" value="0.67" />
+        <entry key="..\:/Users/abram/Documents/FAKULTET/DIPLOMSKI/Projekt/DomusMobile2/app/src/main/res/layout/item_products.xml" value="0.67" />
+        <entry key="..\:/Users/abram/Documents/FAKULTET/DIPLOMSKI/Projekt/DomusMobile2/app/src/main/res/layout/quantity_window.xml" value="0.33" />
+        <entry key="..\:/Users/abram/Documents/FAKULTET/DIPLOMSKI/Projekt/DomusMobile2/app/src/main/res/menu/cart.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
